@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<name>"张三"</name>
+<age>16</age>
+<date>"2019-01-01"</date>
+<scores type_id="opencv-matrix">
+  <rows>3</rows>
+  <cols>2</cols>
+  <dt>i</dt>
+  <data>
+    98 99 96 97 95 98</data></scores>
+</opencv_storage>

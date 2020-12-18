@@ -1,0 +1,10 @@
+%YAML:1.0
+---
+name: "张三"
+age: 16
+date: "2019-01-01"
+scores: !!opencv-matrix
+   rows: 3
+   cols: 2
+   dt: i
+   data: [ 98, 99, 96, 97, 95, 98 ]
